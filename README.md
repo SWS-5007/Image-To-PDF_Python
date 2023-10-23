@@ -42,7 +42,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contribution
 
 Contributions to this project are welcome. If you find any issues or have improvements to suggest, feel free to open a pull request or submit an issue.
-
-## Contact
-
-For any questions or inquiries, you can contact the project maintainer at [email@proton.me](mailto:oprrnazoro@proton.me).
